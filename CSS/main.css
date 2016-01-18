@@ -1,0 +1,11 @@
+#svg {
+    stroke: blue;
+}
+
+#design {
+    stroke: green;
+    stroke-width: 2;
+    fill: pink;
+    opacity: 0.7;
+}
+
